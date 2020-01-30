@@ -1,0 +1,3 @@
+npm i --save puppeter
+
+preetier	-> code indentation
